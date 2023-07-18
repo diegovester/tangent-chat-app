@@ -1,3 +1,4 @@
+// reference: https://socket.io/get-started/chat
 const express = require('express');
 const app = express();
 const http = require('http');
